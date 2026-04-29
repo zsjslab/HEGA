@@ -1,10 +1,4 @@
-<div align="right">
-  <b><a href="README_zh.md">🇨🇳 中文版 (Chinese)</a> | <a href="README.md">🇬🇧 English</a></b>
-</div>
-
----
-
-# UKG
+# HEGA
 
 🌐 **[Project Homepage](#)** Official code implementation for the paper *"HEGA: Hybrid Embedding-Generative Approach for Schema-Free Unsupervised Knowledge Graph Construction"*.
 
