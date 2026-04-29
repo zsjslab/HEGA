@@ -2,7 +2,7 @@
 
 🌐 **[Project Homepage](#)** Official code implementation for the paper *"HEGA: Hybrid Embedding-Generative Approach for Schema-Free Unsupervised Knowledge Graph Construction"*.
 
-The figure below illustrates the overall architecture of our proposed UKG:
+The figure below illustrates the overall architecture of our proposed HEGA:
 
 ![Model Architecture](框架图.png)
 
